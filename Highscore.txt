@@ -1,0 +1,6 @@
+                           hu                          79
+                           PAY                         -9
+                           PAY                         42
+                           1                           234
+                           bobo                        -24
+                           bobo                        -19
